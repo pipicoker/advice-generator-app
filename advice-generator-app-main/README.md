@@ -22,8 +22,8 @@ Users should be able to:
 ![Desktop Design preview for the Advice generator app ](./design/desktop-preview.jpg)
 ![Desktop Design preview for the Advice generator app ](./design/mobile-preview.jpg)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.co
+- Code URL: (https://github.com/pipicoker/advice-generator-app)
+- Live Site URL: (https://advice-generating-sys.netlify.app)
 
 ### Built with
 
